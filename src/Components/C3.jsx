@@ -269,7 +269,7 @@ let C3 = () => {
                 </div>
                <div className="copy-content">
                <hr />
-                <span>	&#169; 2023 Himanshu Kumar</span>
+                <span>	&#169; 2023 Shanno Pandey</span>
                </div>
 
             </footer>
