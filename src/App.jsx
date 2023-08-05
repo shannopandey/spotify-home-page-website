@@ -1,4 +1,3 @@
-
 import C1 from "./Components/C1";
 import C2 from "./Components/C2";
 import C3 from "./Components/C3";
